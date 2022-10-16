@@ -11,7 +11,7 @@ Currently, adversarial training has become a popular and powerful regularization
   title={R-AT: Regularized Adversarial Training for Natural Language Understanding},
   author={Ni, Shiwen and Li, Jiawen and Kao, Hung-Yu},
   booktitle={Findings of the Association for Computational Linguistics: EMNLP 2022},
-  year={2022},
+  year={2022}
 }
 ```
 ### Continuing to update...
